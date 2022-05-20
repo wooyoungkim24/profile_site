@@ -3673,10 +3673,14 @@ input, select, textarea {
 		position: relative;
 		text-align: center;
 	}
+
 		#banner img{
 			height:300px;
 			width:300px;
 			object-fit:cover;
+
+			object-position: 0px 0px;
+
 			border-radius:200px;
 			margin-bottom: 20px;
 		}
